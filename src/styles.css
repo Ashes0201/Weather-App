@@ -1,0 +1,27 @@
+h1,
+h2,
+h5,
+p {
+  text-align: center;
+  color: #4291a2;
+}
+
+h1 {
+  font-size: 50px;
+  padding: 15px;
+  background: #def8ff;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+a {
+  text-decoration: none;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.container {
+  margin-top: 30px;
+}
